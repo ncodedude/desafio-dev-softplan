@@ -1,0 +1,14 @@
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.deps.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.runtimeconfig.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.runtimeconfig.dev.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.pdb
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.csprojAssemblyReference.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.csproj.CoreCompileInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.RazorAssemblyInfo.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.RazorAssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.AssemblyInfoInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.AssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.RazorTargetAssemblyInfo.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.CalculoJuros.WebApi.pdb

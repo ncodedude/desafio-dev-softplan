@@ -1,0 +1,11 @@
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.csproj.CoreCompileInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.AssemblyInfoInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.AssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.Juros.WebApi.deps.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.Juros.WebApi.runtimeconfig.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.Juros.WebApi.runtimeconfig.dev.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\bin\Debug\netcoreapp2.2\Selecao.Juros.WebApi.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.csprojAssemblyReference.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.RazorAssemblyInfo.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.RazorAssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Juros.WebApi\obj\Debug\netcoreapp2.2\Selecao.Juros.WebApi.RazorTargetAssemblyInfo.cache

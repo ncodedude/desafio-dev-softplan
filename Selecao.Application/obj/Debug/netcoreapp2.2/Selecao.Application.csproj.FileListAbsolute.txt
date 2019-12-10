@@ -1,0 +1,9 @@
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\bin\Debug\netcoreapp2.2\Selecao.Application.deps.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\bin\Debug\netcoreapp2.2\Selecao.Application.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\bin\Debug\netcoreapp2.2\Selecao.Application.pdb
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.csprojAssemblyReference.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.csproj.CoreCompileInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.AssemblyInfoInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.AssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Application\obj\Debug\netcoreapp2.2\Selecao.Application.pdb

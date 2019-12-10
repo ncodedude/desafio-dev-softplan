@@ -1,0 +1,14 @@
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\bin\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.deps.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\bin\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.runtimeconfig.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\bin\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.runtimeconfig.dev.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\bin\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\bin\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.pdb
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.csprojAssemblyReference.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.csproj.CoreCompileInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.RazorAssemblyInfo.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.RazorAssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.AssemblyInfoInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.AssemblyInfo.cs
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.RazorTargetAssemblyInfo.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Taxa.WebApi\obj\Debug\netcoreapp2.2\Selecao.TaxaJuros.WebApi.pdb

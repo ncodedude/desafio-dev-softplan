@@ -1,0 +1,5 @@
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Selecao.Infra.CrossCutting.IoC.deps.json
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Selecao.Infra.CrossCutting.IoC.dll
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Selecao.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Selecao.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\workspace\source\selecao_softplan\Selecao_Softplan\Selecao.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Selecao.Infra.CrossCutting.IoC.AssemblyInfo.cs
