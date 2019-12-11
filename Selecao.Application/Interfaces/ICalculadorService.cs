@@ -6,5 +6,6 @@ namespace Selecao.Application.Interfaces
 {
     public interface ICalculadorService
     {
+        double CalcularJuros(decimal valor, double juros, decimal meses);
     }
 }

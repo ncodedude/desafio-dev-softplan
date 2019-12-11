@@ -14,7 +14,9 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "TAXA_JUROS_API": "http://localhost:55759/api/v1/taxaJuros",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "URL_GITHUB": "https://github.com/ncodedude/desafio-dev-softplan"
       }
     },
     "Selecao.Juros.WebApi": {

@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Selecao.Application.Interfaces;
+using Selecao.Application.Services;
 
 namespace Selecao.Infra.CrossCutting.IoC
 {
@@ -8,8 +9,8 @@ namespace Selecao.Infra.CrossCutting.IoC
         public static void RegisterServices(IServiceCollection services)
         {
             // Application
-            services.AddScoped<ICalculadorService, TipoAtendimentoService>();
-            services.AddScoped<ILocalAtendimentoService, LocalAtendimentoService>();
+            services.AddScoped<ICalculadorService, CalculadorService>();
+            services.AddScoped<ITaxaService, TaxaService>();
         }
     }
 }

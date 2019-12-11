@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Selecao.CalculoJuros.WebApi.Configurations;
+using Selecao.Infra.CrossCutting.IoC;
 using Swashbuckle.AspNetCore.Swagger;
 
 
@@ -25,7 +26,7 @@ namespace Selecao.CalculoJuros.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddWebApi(options =>
             {
@@ -56,6 +57,8 @@ namespace Selecao.CalculoJuros.WebApi
 
             });
 
+            RegisterServices(services);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -82,6 +85,12 @@ namespace Selecao.CalculoJuros.WebApi
             {
                 s.SwaggerEndpoint("/swagger/v1/swagger.json", "Cálculo de Juros da Seleção de Pessoa Desenvolvedora Softplan API v1.0");
             });
+        }
+
+        private static void RegisterServices(IServiceCollection services)
+        {
+            // Adding dependencies from another layers (isolated from Presentation)
+            NativeInjectorBootStrapper.RegisterServices(services);
         }
     }
 }

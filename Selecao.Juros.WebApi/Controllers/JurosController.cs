@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Selecao.Application.Interfaces;
+using System;
+using System.Threading.Tasks;
 
 namespace Selecao.CalculoJuros.WebApi.Controllers
 {
@@ -7,25 +9,27 @@ namespace Selecao.CalculoJuros.WebApi.Controllers
     public class JurosController : ApiControllerBase
     {
         private readonly ICalculadorService _calculadorService;
+        private readonly ITaxaService _taxaService;
 
-        public JurosController(ICalculadorService calculadorService)
+        public JurosController(ICalculadorService calculadorService, ITaxaService taxaService)
         {
             _calculadorService = calculadorService;
+            _taxaService = taxaService;
         }
 
         [HttpGet]
         [Route("calculajuros")]
-        public IActionResult Get()
+        public async Task<IActionResult> GetAsync(decimal valor, decimal meses)
         {
-            //_calculadorService.CalcularJuros(meses, taxa);
-            return Response(null);
+            var taxa = await _taxaService.ConsultarTaxaDeJurosAsync();
+            return Response(_calculadorService.CalcularJuros(valor, taxa, meses));
         }
 
         [HttpGet]
         [Route("showmethecode")]
-        public IActionResult Get(int id)
+        public IActionResult Get()
         {
-            return Response(null);
+            return Response(Environment.GetEnvironmentVariable("URL_GITHUB"));
         }
     }
 }
